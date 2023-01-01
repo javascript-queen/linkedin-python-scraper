@@ -4,7 +4,7 @@
 
 *It's a common misconception that web scraping is illegal—it isn't, nor is it hacking or data theft. There are no specific laws that prohibit data scraping. Professional scrapers follow data protection rules and access only publicly available data.*
 
-##‼️IMPORTANT!
+‼️IMPORTANT!
 1. The code is slower than it can be to copy a human's behavior
 2. There should be some alterations done for different files which I’ll explain below
 3. If the script can’t find the desired url it’ll print ‘url not found’
