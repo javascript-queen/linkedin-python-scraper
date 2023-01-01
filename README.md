@@ -1,4 +1,4 @@
-# linkedin-python-scrapper
+# linkedin-python-scraper
 
 # LinkedIn Scraper
 
